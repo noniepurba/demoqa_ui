@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Perform a search by typing the title of the book on the search bar</description>
+   <name>UI_TC_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>983797ca-18bf-48f3-ab81-08842f4e1a58</testCaseGuid>
+</TestCaseEntity>
