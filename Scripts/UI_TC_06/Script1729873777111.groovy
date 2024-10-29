@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://demoqa.com/books')
 
 WebUI.setText(findTestObject('Page_DEMOQA/input_Book Store API_searchBox'), '')
 
-WebUI.verifyElementNotPresent(findTestObject('Page_DEMOQA/msg_nodata'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_DEMOQA/msg_nodata'), 0)
 
 WebUI.closeBrowser()
 
